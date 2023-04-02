@@ -1,0 +1,14 @@
+.question{
+margin-left: 100px;
+margin-right: 100px;
+padding: 10px;
+text-align: justify;
+}
+
+.question h2{
+    text-align: center;
+}
+.question h6{
+    text-align: center;
+    margin-top: 100px;
+}

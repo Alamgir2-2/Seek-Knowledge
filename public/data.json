@@ -1,0 +1,47 @@
+[
+    {
+      "id": "1",
+      "cover_img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
+      "author_img": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Rubio_Circle.png",
+      "read_time": 5,
+      "name": "Pamela Pollard",
+      "title": "The Future of Robotics: How Robots Will Transform Our Lives\r\n",
+      "date": "January 06"
+    },
+    {
+      "id": "2",
+      "cover_img": "https://images.unsplash.com/photo-1678347123725-2d0d31bc06bd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=802&q=80",
+      "author_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7psDFKzCi54roXfiyox17Re-0gfVQkSWVVg&usqp=CAU",
+      "read_time": 10,
+      "name": "Anastasia Le",
+      "title": "Google killer' ChatGPT sparks AI chatbot race\r\n",
+      "date": "March 19"
+    },
+    {
+      "id": "3",
+      "cover_img": "https://images.unsplash.com/photo-1633677491262-0a51b9851f46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "author_img": "https://img1.pnghut.com/11/25/13/1PdmeamR9J/facial-hair-user-profile-linkedin-lake-jaw.jpg",
+      "read_time": 13,
+      "name": "Saleh Muhammd",
+      "title": "Why Ramadan is the most sacred month in Islamic culture\r\n",
+      "date": "January 18"
+    },
+    {
+      "id": "4",
+      "cover_img": "https://images.unsplash.com/photo-1609726494499-27d3e942456c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "author_img": "https://tricky-photoshop.com/wp-content/uploads/2017/08/final-1.png",
+      "read_time": 20,
+      "name": "Randi Mcmahon",
+      "title": "Making sense of bitcoin, cryptocurrency and blockchain\r\n",
+      "date": "February 12"
+    },
+    {
+      "id": "5",
+      "cover_img": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=455&q=80",
+      "author_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6oC0cLNyFt4XMtPNe35Tct-8iicsxnDi--fghnv05pczTghd04zc3wR9ATttVVHswLX4&usqp=CAU",
+      "read_time": 19,
+      "name": "Justice Wilder",
+      "title": "Web System Development Process: The Complete Guide\r\n",
+      "date": "March 24"
+    }
+  ]

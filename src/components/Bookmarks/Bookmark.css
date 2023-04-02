@@ -1,0 +1,21 @@
+.bookmark {
+    margin: 5px;
+    position: sticky;
+    top: 4ic;
+}
+
+.time-count {
+    text-align: center;
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 10px;
+    color: blue;
+}
+
+.bookmark-item {
+    margin-top: 10px;
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 10px;
+
+}

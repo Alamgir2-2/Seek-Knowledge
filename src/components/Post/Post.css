@@ -1,0 +1,38 @@
+.posts {
+    border: 2px solid white;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.cover img {
+    height: 400px;
+    width: 100%;
+    border-radius: 10px;
+
+}
+
+.author {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.author img {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+
+.name {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+
+.details {
+    padding: 10px;
+}
+
+.details p {
+    text-decoration: underline;
+}
